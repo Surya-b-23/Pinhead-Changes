@@ -5129,3 +5129,9 @@ div#mCSB_1_container{
   padding: auto;
   margin: auto auto auto 20px;
 }
+
+.blog-content ol li{
+  list-style:auto;
+  padding: auto;
+  margin: auto auto auto 20px;
+}
