@@ -5102,13 +5102,19 @@ div#mCSB_1_container{
   float: right;
 } */
 
+/* case studies styles */
+
 .blog-content{
   padding: 60px 0px 0px 0px;
 }
 
-.blog-content .sec-title h2{
-  text-align: center;
+.blog-content .auto-container{
+  max-width: 1100px;
 }
+
+/* .blog-content .sec-title h2{
+  text-align: center;
+} */
 
 .blog-content .blog-image{
   margin-bottom: 30px;
@@ -5116,4 +5122,10 @@ div#mCSB_1_container{
 
 .blog-content .content h3{
   margin: 20px 0px 10px 0px;
+}
+
+.blog-content ul li{
+  list-style:inside;
+  padding: auto;
+  margin: auto auto auto 20px;
 }
