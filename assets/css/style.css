@@ -5121,7 +5121,7 @@ div#mCSB_1_container{
 }
 
 .blog-content .content h3{
-  margin: 20px 0px 10px 0px;
+  margin: 20px 0px 20px 0px;
 }
 
 .blog-content ul li{
@@ -5134,4 +5134,20 @@ div#mCSB_1_container{
   list-style:auto;
   padding: auto;
   margin: auto auto auto 20px;
+}
+
+.blog-content .sec-title{
+  margin: 15px 0 15px 0 ;
+}
+.blog-content .sec-title h2{
+  font-size: 40px;
+}
+.sub-title h3{
+  font-size: 32px;
+}
+
+.sub-title h4{
+  font-size: 24px;
+  font-weight: 600;
+  margin: 30px 0px 20px 0px;;
 }
